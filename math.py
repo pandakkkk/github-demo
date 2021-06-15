@@ -4,6 +4,5 @@ def add(x,y):
 #substract inplementation
 def subtract(x,y):
     pass
-#multiply implementation
 def multiply(x,y):
     pass
